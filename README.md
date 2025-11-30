@@ -1,6 +1,10 @@
 # ClashX Meta 下载官网客户端分享
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashXMeta" src="https://github.com/user-attachments/assets/6fe1b2db-9b9f-4737-b968-5238e2c4a709" />
+</div>
+<br>
 
 ## :memo: ClashX Meta 节点资源
 
